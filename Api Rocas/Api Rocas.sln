@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api Rocas", "Api Rocas.csproj", "{8F5F7E6D-218F-427D-896B-3796C703ADA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente - Observer", "..\Cliente - Observer\Cliente - Observer.csproj", "{F07F7E86-B687-4EBC-8AFD-354FFA250704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F5F7E6D-218F-427D-896B-3796C703ADA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5F7E6D-218F-427D-896B-3796C703ADA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5F7E6D-218F-427D-896B-3796C703ADA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5F7E6D-218F-427D-896B-3796C703ADA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F07F7E86-B687-4EBC-8AFD-354FFA250704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F07F7E86-B687-4EBC-8AFD-354FFA250704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F07F7E86-B687-4EBC-8AFD-354FFA250704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F07F7E86-B687-4EBC-8AFD-354FFA250704}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51630993-F86A-4D44-AE24-4A4C9EDE42B8}
+	EndGlobalSection
+EndGlobal

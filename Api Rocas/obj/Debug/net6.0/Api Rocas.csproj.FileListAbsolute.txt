@@ -1,0 +1,32 @@
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\bin\Debug\net6.0\appsettings.json
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\bin\Debug\net6.0\Api Rocas.exe
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\bin\Debug\net6.0\Api Rocas.deps.json
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\bin\Debug\net6.0\Api Rocas.runtimeconfig.json
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\bin\Debug\net6.0\Api Rocas.dll
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\bin\Debug\net6.0\Api Rocas.pdb
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\obj\Debug\net6.0\Api Rocas.csproj.AssemblyReference.cache
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\obj\Debug\net6.0\Api Rocas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\obj\Debug\net6.0\Api Rocas.AssemblyInfoInputs.cache
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\obj\Debug\net6.0\Api Rocas.AssemblyInfo.cs
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\obj\Debug\net6.0\Api Rocas.csproj.CoreCompileInputs.cache
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\obj\Debug\net6.0\Api Rocas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\obj\Debug\net6.0\Api Rocas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\obj\Debug\net6.0\staticwebassets\msbuild.Api Rocas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\obj\Debug\net6.0\staticwebassets\msbuild.build.Api Rocas.props
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api Rocas.props
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api Rocas.props
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\obj\Debug\net6.0\scopedcss\bundle\Api Rocas.styles.css
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\obj\Debug\net6.0\Api Rocas.csproj.CopyComplete
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\obj\Debug\net6.0\Api Rocas.dll
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\obj\Debug\net6.0\refint\Api Rocas.dll
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\obj\Debug\net6.0\Api Rocas.pdb
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\obj\Debug\net6.0\Api Rocas.genruntimeconfig.cache
+C:\Users\b-j-e\source\repos\35-CS-Api-Observer-Rocas\Api Rocas\obj\Debug\net6.0\ref\Api Rocas.dll
